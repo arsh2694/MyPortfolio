@@ -3,6 +3,14 @@ import { ExternalLink, Calendar, User } from 'lucide-react';
 
 const blogPosts = [
   {
+    title: 'Why Companies Are Betting on Docker 🐳',
+    excerpt: 'Docker is transforming tech stacks across industries—faster deployments, lower costs, and scalable microservices. From Netflix to PayPal, teams are deploying in seconds, saving thousands of dev hours, and boosting CI/CD speed & reliability. It\'s not just a tool—it\'s foundational.',
+    date: 'December 2024',
+    author: 'Arsh Sharma',
+    link: 'https://www.linkedin.com/posts/arsh-sharma-932b2a2a5_docker-devops-microservices-activity-7349695695047581697-ozm0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmr_rYB1ntUGRylSD1An6i79k118KpI0to',
+    tags: ['Docker', 'DevOps', 'Microservices', 'CI/CD']
+  },
+  {
     title: 'Linux: The Hidden Hero Behind the World\'s Tech',
     excerpt: 'Linux quietly powers giants like Google, Amazon, Meta, Microsoft, Netflix, Tesla, NASA, and more. Secure, customizable, and cost-free, it\'s the backbone of cloud, DevOps, and smart systems. If it\'s good enough for the giants, maybe it\'s time to take a closer look at Linux for your next project.',
     date: 'July 2024',

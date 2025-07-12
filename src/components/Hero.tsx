@@ -53,7 +53,8 @@ const Hero: React.FC = () => {
           {/* Left Side - Text Content */}
           <div className="text-center lg:text-left order-2 lg:order-1">
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 opacity-0 animate-fadeInUp">
-              Hi, I'm <span className="text-blue-400">Arsh Sharma</span>
+              <div>Hi, I'm</div>
+              <div><span className="text-blue-400">ARSH SHARMA</span></div>
             </h1>
             <div className="text-xl md:text-2xl text-gray-300 mb-8 h-8 opacity-0 animate-fadeInUp animation-delay-200">
               <span className="border-r-2 border-blue-400 pr-1">
